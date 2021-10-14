@@ -8,7 +8,7 @@ This tool requires python3 and the dependencies listed in "requirements.txt".
 
 This explanation will use pip to install the dependencies, if you prefer to get your packages in a different manner go ahead.
 
-4. In the terminal, in the same location as you installed python3, execute the following command **curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py**.
+4. In the terminal, in the same location as you installed python3, execute the following command **curl https:<i></i>//bootstrap.pypa.io/get-pip.py -o get-pip.py**.
 5. Next, execute **python3 get-pip.py** to install pip.
 6. You can check that pip has been correctly installed by executing **pip3 --version**
 7. In the terminal, navigate to the folder where you downloaded the multitudesCLITool-main code.
