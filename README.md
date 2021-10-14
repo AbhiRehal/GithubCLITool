@@ -15,9 +15,9 @@ These instructions will use pip to download the dependencies, if you prefer anot
 4. In the terminal, in the same location as you installed python3, execute the following command **curl https:<i></i>//bootstrap.pypa.io/get-pip.py -o get-pip.py**
 5. Next, execute **python3 get-pip.py** (macOS) to install pip. If you are on a Windows machine, download **get-pip.py** from the internet and save it in the same directory that you downloaded python in. Then in the terminal, navigate to that directory and execute the command **python get-pip.py**
 6. To confirm that pip has been correctly installed, execute **pip3 --version** (macOS) or **pip --version** (Windows)
-7. In the terminal, navigate to the folder where you downloaded/extracted the *multitudesCLITool-main* code. You can do so by executing the command **cd multitudesCLITool-main**
+7. In the terminal, navigate to the folder where you downloaded/extracted the *multitudesCLITool-main* code. You can do so by executing the command **cd multitudesCLITool-main** (macOS). If you are on a Windows machine, navigate to the directory using the specific file path.
 8. To confirm that you are in the correct directory, execute the command **ls** to list the files in the current directory. The files listed should be the 3 files in this repoistry; **README.md**, **multitudesCLI.py** and **requirements.txt**
-9. Next you will install the dependencies by executing the command **pip3 install -r requirements.txt**
+9. Next you will install the dependencies by executing the command **pip3 install -r requirements.txt** (macOS). For Windows, execute the command **pip install -r <path>/requirements.txt**
 10. Done!
 
 # Running the programme
