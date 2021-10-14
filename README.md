@@ -2,7 +2,7 @@
 
 This is a command line tool that you can use to query public repositories for its number of open pull requests. This can programme can be run on both Windows 10 and macOS.
 
-This tool will require python3 and the dependencies listed in *requirements.txt*. For instructions on how to install and run the programme follow the steps below. If you are an experienced user and would like to know how the programme is run, skip to step 11.
+This tool will require python3 and the dependencies listed in *requirements.txt*. For instructions on how to install and run the programme follow the steps below. If you are an experienced user and would like to know how the programme is run, skip to below.
 
 # How to install
 
