@@ -22,7 +22,7 @@ These instructions will use pip to download the dependencies, if you prefer anot
 
 # Running the programme
 
-This programme is run from the terminal by executing the command **python3 multitudesCLI.py** (macOS) or **python multitudesCLI.py** (Windows). When running on Windows, make sure you navigate to the correct directory before exectuing the command to start the programme. When the programme begins, the terminal will be cleared and you will be met with the following screen:
+This programme is run from the terminal by executing the command **python3 multitudesCLI.py** (macOS) or **python multitudesCLI.py** (Windows). When running on Windows, make sure you navigate to the correct directory before exectuing the command to start the programme. When the programme begins, the terminal will be cleared and you will be met with the [following screen](https://github.com/AbhiRehal/GithubCLITool/blob/main/READMEImages/p1.PNG).
 
 
 
