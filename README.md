@@ -22,8 +22,6 @@ These instructions will use pip to download the dependencies, if you prefer anot
 
 # Running the programme
 
-This programme is run from the terminal by executing the command **python3 multitudesCLI.py** (macOS) or **python multitudesCLI.py** (Windows). When running on Windows, make sure you navigate to the correct directory before exectuing the command to start the programme. When the programme begins, the terminal will be cleared and you will be met with the [following screen](https://github.com/AbhiRehal/GithubCLITool/blob/main/READMEImages/p1.PNG).
+This programme is run from the terminal by executing the command **python3 multitudesCLI.py** (macOS) or **python multitudesCLI.py** (Windows). When running on Windows, make sure you navigate to the correct directory before exectuing the command to start the programme. When the programme begins, the terminal will be cleared and you will be met with the following [screen](https://github.com/AbhiRehal/GithubCLITool/blob/main/READMEImages/p1.PNG).
 
-
-
-You will be asked the owner of the repositry you would like to query and the name of the repositry you would like you query.
+You will be asked the to enter the **owner** of the repositry and the **name** of the repositry that you would like to query. Once you enter the requests, you will be met with an output that looks similar to [this](https://github.com/AbhiRehal/GithubCLITool/blob/main/READMEImages/p2.PNG). At this point you can press **y/Y** to requery a repositry or you can hit **enter/return** to exit the program. If the inputs you enter result in an error, you will be informed in the terminal.
